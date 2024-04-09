@@ -24,6 +24,8 @@ Hablando de los comandos de git que conozco son:
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
+Comando para verificar la ruta de donde estoy ubicado
+![Comando para verificar la ruta de donde estoy ubicado](https://ibb.co/WcGvgbc)
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
