@@ -2,7 +2,23 @@
 
 
 ### 1. ¿Qué lenguajes de programación a usado?
+He usado los siguientes lenguajes de programación:
+	- Dart
+	- Python
+	- TypeScript
+	- Java
+	- Scala (A un nivel básico)
 ### 2. ¿Qué comandos conoce de GIT?
+Hablando de los comandos de git que conozco son:
+	- git clone
+	- git branch
+	- git merge
+	- git checkout
+	- git push
+	- git pull
+	- git add
+	- git commit
+
 ### 3. Ejemplifique el comando de Linux: mv
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
