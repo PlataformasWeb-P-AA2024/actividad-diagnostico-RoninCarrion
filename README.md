@@ -23,6 +23,7 @@ Hablando de los comandos de git que conozco son:
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
+![Visualización de archivos en la ubicación actual](/imagenes/6.png)
 ### 7. Ejemplifique el comando de Linux: pwd
 Comando para verificar la ruta de donde estoy ubicado
 ![Imagen de ruta](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-RoninCarrion/blob/main/Captura%20de%20pantalla%202024-04-08%20203320.png?raw=true)
