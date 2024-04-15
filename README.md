@@ -20,21 +20,28 @@ Hablando de los comandos de git que conozco son:
 	- git commit
 
 ### 3. Ejemplifique el comando de Linux: mv
+Comando utilizado para poder mover un documento de un directorio a otro.
 ![Mover un documento de un directorio a otro](/imagenes/3.png)
 ### 4. Ejemplifique el comando de Linux: cp
+Comando utilizado para copiar un documento/archivo/imagen.
 ![Copiar una imagen de un directorio a otro](/imagenes/4.png)
 ### 5. Ejemplifique el comando de Linux: mkdir
+Comando utilizado para crear un directorio.
 ![Creación de un directorio](/imagenes/5.png)
 ### 6. Ejemplifique el comando de Linux: ls
+Comando que nos ayuda a conocer los archivos que se encuentran en el lugar que estamos ubicados.
 ![Visualización de archivos en la ubicación actual](/imagenes/6.png)
 ### 7. Ejemplifique el comando de Linux: pwd
-Comando para verificar la ruta de donde estoy ubicado
+Comando para verificar la ruta de donde estoy ubicado.
 ![Imagen de ruta](/imagenes/7.png)
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
+Comando para realizar la navegación hacia un directorio.
 ![Navegación hacia un directorio](/imagenes/10.png)
 ### 11. Ejemplifique el comando de Linux: mv
+Comando para mover un documento hacia otro directorio.
 ![Mover un documento de un directorio a otro](/imagenes/3.png)
 ### 12. Ejemplifique el comando de Linux: cat
+Comando para visualizar el contenido de un documento o archivo.
 ![Visualizar el contenido de un archivo](/imagenes/12.png)
