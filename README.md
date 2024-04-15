@@ -35,7 +35,11 @@ Comando que nos ayuda a conocer los archivos que se encuentran en el lugar que e
 Comando para verificar la ruta de donde estoy ubicado.
 ![Imagen de ruta](/imagenes/7.png)
 ### 8. Ejemplifique el comando de Linux: touch
+Comando utilizado para la creación de archivos.
+![Crear un archivo en la ruta que te encuentras](/imagenes/8.png)
 ### 9. Ejemplifique el comando de Linux: grep
+Comando para buscar una cadena dentro de un directorio o archivos
+![Comando para buscar cadenas dentro un directorio](/imagenes/9.png)
 ### 10. Ejemplifique el comando de Linux: cd
 Comando para realizar la navegación hacia un directorio.
 ![Navegación hacia un directorio](/imagenes/10.png)
